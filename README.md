@@ -4,7 +4,7 @@
 # AI PDF Summarizer with Google Drive Integration
 
 ## Overview
-This project implements an AI-powered agent capable of retrieving PDFs from **Google Drive**, extracting text using **PyMuPDF (fitz)**, and generating summaries with the **Ollama LLM model**. It provides seamless integration for document retrieval and processing, optimizing text extraction and summarization workflows.
+This project implements an AI-powered agent capable of retrieving PDFs from **Google Drive**, extracting text using **PyMuPDF (fitz)**, and generating summaries with the **Ollama LLM model**. **Gradio** for Chatbot UI. It provides seamless integration for document retrieval and processing, optimizing text extraction and summarization workflows.
 
 ## Features
 - 📂 **Google Drive API Integration** – Search and retrieve PDFs directly from Google Drive.
